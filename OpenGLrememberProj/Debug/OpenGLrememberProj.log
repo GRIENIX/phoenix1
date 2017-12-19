@@ -1,0 +1,8 @@
+﻿  Render.cpp
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(194): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(196): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(197): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(653): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(654): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\diman\desktop\кг курс\phoenix\openglrememberproj\render.cpp(655): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  OpenGLrememberProj.vcxproj -> C:\Users\Diman\Desktop\кг курс\phoenix\Debug\OpenGLrememberProj.exe
